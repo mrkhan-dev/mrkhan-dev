@@ -11,8 +11,12 @@
 
 <br>
 <h2>About me</h2>
-<p align="left">👋 Hi there! I'm a passionate Front-End Developer specializing in <b>React.js.</b> With a strong foundation in web development and a keen eye for design, I create user-friendly and visually appealing applications.</p>
+<p align="left">As a passionate and driven web developer, I have developed a strong foundation in both front-end and back-end technologies. My expertise includes HTML, CSS, JavaScript, and frameworks like React. On the back end, I have hands-on experience with Node.js, Express.js, and MongoDB. <br/>
 
+I have worked on various personal projects that have allowed me to refine my skills in creating dynamic, responsive websites and applications. I am particularly enthusiastic about continuous learning and am always looking for new challenges to further enhance my development abilities. <br/>
+
+While I may be early in my career, my quick learning ability, strong work ethic, and dedication to growth set me apart. I am excited to contribute my skills and energy to a forward-thinking team and make a meaningful impact in the world of web development.
+<br/>
 
 <h2>Connect With Me <img  src  =  "https://img.icons8.com/?size=100&id=tL0EZNwjrowz&format=png&color=000000"  width="40px"  height="40px"></h2>
 <p align="center"><a  href="https://web.facebook.com/shahjalalkhan110"  target="blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"  alt="shahjalalkhan"  height="34"  width="40" /></a>
