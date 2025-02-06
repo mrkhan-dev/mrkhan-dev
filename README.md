@@ -7,7 +7,7 @@
 
 <h3  align="center">A passionate Front-end developer</h3>
 
-<p  align="center"><img src="https://streak-stats.demolab.com?user=mrkhan-dev&theme=highcontrast"  alt="shakilahmedatik" /></p>
+<p  align="center"><img src="https://streak-stats.demolab.com?user=mrkhan-dev&theme=highcontrast"  alt="shahjalalkhan" /></p>
 
 <br>
 <h2>About me</h2>
